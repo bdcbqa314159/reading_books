@@ -9,4 +9,4 @@
 - Introduction à la géométrie différentielle by Vincent Guedj
 - Discrete Models of Financial Markets by M. Capiński and E. Kopp
 - Financial Calculus - An introduction to derivative pricing by M. Baxter and A. Rennie
-
+- The Black-Scholes Model by M. Capiński and E. Kopp
