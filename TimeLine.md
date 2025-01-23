@@ -10,3 +10,4 @@
 - Discrete Models of Financial Markets by M. Capiński and E. Kopp
 - Financial Calculus - An introduction to derivative pricing by M. Baxter and A. Rennie
 - The Black-Scholes Model by M. Capiński and E. Kopp
+- Probability for Finance by E. Kopp, J. Malczak and T. Zastawniak
