@@ -16,4 +16,5 @@
 - Credit Risk by M. Capiński and T. Zastawniak
 - Numerical Methods in Finance with C++ by M. Capiński and T. Zastawniak
 - Riemannian Geometry by Peter Petersen
+- Deciphering Object-Oriented Programming with C++ by Dorothy R. Kirk
   
