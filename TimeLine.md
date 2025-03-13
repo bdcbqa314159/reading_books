@@ -18,3 +18,4 @@
 - Riemannian Geometry by Peter Petersen
 - Deciphering Object-Oriented Programming with C++ by Dorothy R. Kirk
 - Fundamentals of Partial Differential Equations by Atul Kumar Rasdan and V. Ravichandran
+- Building Low Latency Applications with C++ by Sourav Ghosh
