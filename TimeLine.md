@@ -20,4 +20,6 @@
 - Fundamentals of Partial Differential Equations by Atul Kumar Rasdan and V. Ravichandran
 - Building Low Latency Applications with C++ by Sourav Ghosh
 - Commodity Option Pricing - A Practicionner's Guide by Iain J. Clark
+- Modelling single-name and multi-name Credit Derivatives by Dominic O'Kane
+  
   
