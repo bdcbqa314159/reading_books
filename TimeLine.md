@@ -21,5 +21,5 @@
 - Building Low Latency Applications with C++ by Sourav Ghosh
 - Commodity Option Pricing - A Practicionner's Guide by Iain J. Clark
 - Modelling single-name and multi-name Credit Derivatives by Dominic O'Kane
-  
+- Advanced Equity Derivatives - Volatility and Correlation by Sébastien Bossu
   
