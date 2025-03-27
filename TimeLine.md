@@ -23,4 +23,5 @@
 - Modelling single-name and multi-name Credit Derivatives by Dominic O'Kane
 - Advanced Equity Derivatives - Volatility and Correlation by Sébastien Bossu
 - Stochastic Models for Prices Dynamics in Energy and Commodity Markets - An Infinite-Dimensional Perspective by Fred Espen Benth and Paul Krühner
+- Interest Rate Modelling - Theory and Practice by Lixin Wu
   
