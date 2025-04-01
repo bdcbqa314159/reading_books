@@ -25,4 +25,5 @@
 - Stochastic Models for Prices Dynamics in Energy and Commodity Markets - An Infinite-Dimensional Perspective by Fred Espen Benth and Paul Krühner
 - Interest Rate Modelling - Theory and Practice by Lixin Wu
 - Mastering C++ Multithreading by Maya Posch
+- Modeling Fixed Income Securities and Interest Rate Options by Robert A. Jarrow
   
