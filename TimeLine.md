@@ -27,3 +27,5 @@
 - Mastering C++ Multithreading by Maya Posch
 - Modeling Fixed Income Securities and Interest Rate Options by Robert A. Jarrow
 - Numerical Methods for Finance - Edited by John A. D. Appleby, David C. Edelman and John J. H. Miller
+- Mathematical Finance - Theory, Modeling, Implementation by Christian Fries
+  
