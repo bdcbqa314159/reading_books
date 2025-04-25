@@ -29,4 +29,5 @@
 - Numerical Methods for Finance - Edited by John A. D. Appleby, David C. Edelman and John J. H. Miller
 - Mathematical Finance - Theory, Modeling, Implementation by Christian Fries
 - Modern Computational Finance - AAD and Parallel Simulations with professional implementations in C++ by Antoine Savine
+- Stochastic Volatility Modeling by Lorenzo Bergomi
   
