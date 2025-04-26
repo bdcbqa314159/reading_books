@@ -30,4 +30,4 @@
 - Mathematical Finance - Theory, Modeling, Implementation by Christian Fries
 - Modern Computational Finance - AAD and Parallel Simulations with professional implementations in C++ by Antoine Savine
 - Stochastic Volatility Modeling by Lorenzo Bergomi
-  
+- FX Options and structures products by Uwe Wystup
