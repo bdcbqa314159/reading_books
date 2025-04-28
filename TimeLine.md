@@ -31,3 +31,4 @@
 - Modern Computational Finance - AAD and Parallel Simulations with professional implementations in C++ by Antoine Savine
 - Stochastic Volatility Modeling by Lorenzo Bergomi
 - FX Options and structures products by Uwe Wystup
+- Foreign exchange option pricing - A practicionner's guide by Iain J. Clark
