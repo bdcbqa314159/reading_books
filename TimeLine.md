@@ -33,3 +33,4 @@
 - FX Options and structures products by Uwe Wystup
 - Foreign exchange option pricing - A practicionner's guide by Iain J. Clark
 - Hands-On System Programming with C++ by Dr. Rian Quinn
+- C++ System Programming Cookbook by Onorato Vaticone
