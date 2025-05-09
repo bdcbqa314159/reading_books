@@ -34,3 +34,4 @@
 - Foreign exchange option pricing - A practicionner's guide by Iain J. Clark
 - Hands-On System Programming with C++ by Dr. Rian Quinn
 - C++ System Programming Cookbook by Onorato Vaticone
+- Guide to Scientific Computing in C++ by Joe Pitt-Francis and Jonathan Whiteley
