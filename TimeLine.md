@@ -1,5 +1,14 @@
 # Reading list
 
+## Year 2024
+
+- A Course of Stochastic Analysis by Alexander Melinkov
+- Learn Algorithms through Programming and Puzzle solving by A. Kulikov and P. Pevzner
+- Algorithms for Optimisation by M.J Kochenderfer and T. A. Wheeler
+- Functional Analysis, Sobolev Spaces and Partial Differential Equations by H. Brezis
+- C++ Fundamentals by A. Mallia and F. Zoffoli
+- Commodity Modeling and Pricing by P. Schaeffer
+
 ## Year 2025
 
 - Interest Rate Modelling. Volume 1: Foundations and Vanilla Models by L.B.G. Andersen and V.V. Piterbarg
