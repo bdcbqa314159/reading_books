@@ -4,10 +4,37 @@
 
 - A Course of Stochastic Analysis by Alexander Melinkov
 - Learn Algorithms through Programming and Puzzle solving by A. Kulikov and P. Pevzner
-- Algorithms for Optimisation by M.J Kochenderfer and T. A. Wheeler
+- Algorithms for Optimisation by M. J. Kochenderfer and T. A. Wheeler
 - Functional Analysis, Sobolev Spaces and Partial Differential Equations by H. Brezis
 - C++ Fundamentals by A. Mallia and F. Zoffoli
-- Commodity Modeling and Pricing by P. Schaeffer
+- Commodity Modeling and Pricing - Methods for Analyzing Ressource Market Behaviour by P. Schaeffer
+- Computational Methods for Quantitative Finance - Finite Element Methods for Derivative Pricing by N. Hilber, O. Reichmann, C. Schwab & C. Winter
+- Credit Derivatives - A Primer on Credit Risk, Modeling and Instruments by G. Chacko, A. Sjõman, H. Motohashi & V. Dessain
+- Credit Risk Modelling - Facts, Theory and Applications by T. Benzschawel
+- Credit Risk - Models, Derivatives and Management by N. Wagner
+- Deciphering Object-Oriented Programming with C++ by D. Kirk
+- Dive Into Design Patterns by A. Shvets
+- Efficient Methods for Valuing Interest Rate Derivatives by A. Pelsser
+- Essential Partial Differential Equations by D. F. Griffiths, J. W. Dold & D. J. Silvester
+- Financial Modeling by S. Crépey
+- Functional Analysis by J. Muscat
+- Implementing Derivatives Models by L. Clewlow & C. Strickland
+- Interest Rate Models An Introduction by A. J. G. Cairns
+- Interest Rate Swaps and Their Derivatives by A. Sadr
+- Malliavin Calculus in Finance by E. Alòs & D. G. Lorite
+- Mastering Python for Finance by J. M. Weiming
+- Méthodes Numériques by A. Quarteroni, R. Sacco & F. Saleri
+- Modern Computational Finance - AAD and Parallel Simulations by A. Savine
+- Modern Computational Finance - Scripting for Derivatives and XVA by A. Savine & J. Adreasen
+- Numerical Methods for Ordinary Differential Equations by D. F. Griffiths & D. J. Higham
+- Stochastic Processes and Applications by G. A. Pavliotis
+- Python for Finance by Y. Yan
+- Quantitative Finance by A. Reghai
+- Stochastic Calculus by Paolo Baldi
+- The Oxford Handbook of Credit Derivatives by A. Lipton & A. Rennie
+- The Validation of Risk Models by S. Scandizo
+- Zero Lower Bound Term Structure Modeling by L. Krippner
+- Python Programming And Numerical Methods: A Guide For Engineers And Scientists by Q. Kong, T. Siauw & A. Bayen [url](https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/Index.html)
 
 ## Year 2025
 
@@ -20,7 +47,7 @@
 - Financial Calculus - An introduction to derivative pricing by M. Baxter and A. Rennie
 - The Black-Scholes Model by M. Capiński and E. Kopp
 - Probability for Finance by E. Kopp, J. Malczak and T. Zastawniak
-- Stochastic Calculus for Financ by M. Capiński, E. Kopp and J. Traple
+- Stochastic Calculus for Finance by M. Capiński, E. Kopp and J. Traple
 - Stochastic Interest Rates by D. McInerney and T. Zastawniak
 - Credit Risk by M. Capiński and T. Zastawniak
 - Numerical Methods in Finance with C++ by M. Capiński and T. Zastawniak
