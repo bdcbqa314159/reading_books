@@ -1,5 +1,41 @@
 # Reading list
 
+## Year 2023
+
+- Advanced Quantitative Finance with C++ by A. Peña
+- Brownian Motion and Stochastic Calculus by I. Karatzas & S. E. Shreve
+- Commodities and Commodity Derivatives by H. Geman
+- Commodity Option Pricing by I. J. Clark
+- Modern SABR Analytics by A. Antonov, M. Konikov & M. Spector
+- XVA by A. Green
+<!-- - Interest Rate Modelling and Derivative Pricing by ... -->
+- Discounting, LIBOR, CVA & Funding by C. Kenyon & R. Stamm
+- Equity Derivatives and Hybrids by O. Brockhaus
+- Interest Rate Modelling in the Multi-curve Framework by M. Henrard
+- Credit Correlation by Y. Elouerkhaoui
+- FX Barrier Options by Z. Dadachanji
+- Modern Derivatives Pricing and Credit Exposure Analysis by R. Lichters, R. Stamm & D. Gallagher
+- Optimization Methods for Gas and Power Markets by E. Edoli, S. Fiorenzani & T. Vargiolu
+- SABR and SABR LIBOR Market Models in Practice by C. Crispoldi, G. Wigger & P. Larkin
+- XVA Desks - A New Era for Risk Management by I. Ruiz
+- Algortihmic Differentiation in Finance Explained by M. Henrard
+- Equity Derivatives Explained by M. Bouzoubaa
+- Financial Engineering with Copulas Explained by J. F. Mai & M. Scherer
+- Interest Rate Derivatives Explained volume 1 by J. Kienitz
+- Interest Rate Derivatives Explained volume 2 by J. Kienitz & P. Caspers
+- Numerical Partial Differential Equations in Finance Explained by K. in 't Hout
+- Smile Pricing Explained by P. Austing
+- The Greeks and Hedging Explained by P. Leoni
+- The XVA of Financial Derivatives: CVA, DVA and FVA Explained by D. Lu
+- Cours d'Algèbre by ...
+- Modélisation à l'Oral de l'Aggregation by ...
+- Equations aux Dérivées Partielles by ...
+- Elements des Distributions et d'Equations aux Dérivées Partielles by ...
+- Calcul Stochastique et Modèles de Diffusions by ...
+- Analyse Fonctionnelle Elementaire by ...
+- Leçons sur les Equations aux Dérivées Partielles by ...
+- Stochastic Differential Equations by Oksendal
+
 ## Year 2024
 
 - A Course of Stochastic Analysis by Alexander Melinkov
