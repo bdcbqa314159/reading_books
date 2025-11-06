@@ -2,6 +2,37 @@
 
 ## Year 2022
 
+1. Beginning C++ Programming by Richard Grimes
+2. Beginning C++ Game Programming - Third Edition by John Horton
+3. Advanced Quantitative Finance with C++ by Alonso Peña Ph. D.
+4. An Introduction to Financial Mathematics - Second Edition by Hugo D. Junghenn
+5. Analyse Complexe et Equations Différentielles by Luis Barreira
+6. Analysis, Geometry, and Modeling in Finance by Pierre Henry-Labordère
+7. C++ High Performance by Björn Andrist & Viktor Sehr
+8. Hands-On Design Patterns with C++ - Second Edition by Fedor G. Pikus
+9. Engineering BGM by Alan Brace
+10. Financial Markets in Continuous Time by Rose-Anna Dana & Monique Jeanblanc
+11. Handbook of Multi-Commodity Markets and Products by Andrea Roncorini, Gianluca Fusai & Mark Cummins
+12. Interest Rate Term Structure and Valuation Modeling by Frnak J. Fabozzi
+13. Introduction to Malliavin Calculus by David Nualart and Eulalia Nualart
+14. Monte Carlo Methods and Models in Finance and Insurance by Ralf Korn, Elke Korn & Gerald Kroisandt
+15. New Methods in Fixed Income Modeling by Mehdi Mili, Reyes Samaniego Medina & Filippo di Pietro
+16. Nonlinear Option Pricing by Julien Guyon & Pierre Henry-Labordère
+17. Numerical Methods and Optimization by Jean-Pierre Corriou
+18. Optimisation et Analyse Convexe by Jean-Baptiste Hiriart-Urruty
+19. Option Volatility and Pricing - Second Edition by Sheldon Natenberg
+20. Partial Differential Equations and the Finite Element Method
+21. Pricing of Bond Options by Detlef Repplinger
+22. Probability for Finance by E. Kopp, J. Malczak and T. Zastawniak
+23. Robust Libor Modelling and Pricing of Derivative Products
+24. Stochastic Calculus for Finance by M. Capiński, E. Kopp and J. Traple
+25. Stochastic Finance by Jan Vecer
+26. Swaps and other derivatives - Second Edition by Richard Flavell
+27. Understanding Markov Chains by Nicolas Privault
+28. The Black-Scholes Model by M. Capiński and E. Kopp
+29. The Volatility Surface by Jim Gatheral
+30. Advanced Quantitative Finance with C++ by Alonso Peña Ph. D. (I know, I have read it already)
+
 ## Year 2023
 
 - Advanced Quantitative Finance with C++ by A. Peña
