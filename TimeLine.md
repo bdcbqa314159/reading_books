@@ -32,6 +32,8 @@
 28. The Black-Scholes Model by M. Capiński and E. Kopp
 29. The Volatility Surface by Jim Gatheral
 30. Advanced Quantitative Finance with C++ by Alonso Peña Ph. D. (I know, I have read it already)
+31. Interest Rate Modelling. Volume 3: Products and Risk by L.B.G. Andersen and V.V. Piterbarg
+32. Stochastic Interest Rates by D. McInerney and T. Zastawniak
 
 ## Year 2023
 
